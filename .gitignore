@@ -1,0 +1,12 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+html-template/
+src/org/flixel
+
+# Project property files
+.actionScriptProperties
+.flexProperties
+.settings/
+.project
+.DS_Store
